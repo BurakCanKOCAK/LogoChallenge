@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/back_open8">
+<LinearLayout 
+   android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+      android:orientation="vertical" 
+       android:paddingLeft="20dp" >
+    
+    <TextView
+        android:textStyle="bold|italic"
+        android:paddingTop="100dp"
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+</LinearLayout>
+<LinearLayout 
+   android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+      android:orientation="vertical" 
+       android:paddingLeft="50dp" >
+
+
+
+
+
+<CheckBox
+    android:id="@+id/cbSound"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Sound"
+    android:paddingLeft="40dp"
+    />
+
+<CheckBox
+    
+    android:paddingLeft="40dp"
+    android:id="@+id/cbVibration"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Vibration" />
+</LinearLayout>
+</LinearLayout>

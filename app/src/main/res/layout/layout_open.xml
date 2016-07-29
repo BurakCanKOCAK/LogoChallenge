@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/back_open8">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:orientation="vertical" 
+    android:gravity="center_vertical">
+
+   
+
+<ImageView
+        android:id="@+id/imageView1"
+        
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:layout_gravity="center"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"
+        android:src="@drawable/ic_launcher" />
+
+<TextView
+     android:layout_gravity="center"
+    android:id="@+id/textView2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="TextView" 
+    android:textColor="#000000"
+    android:textStyle="bold|italic"/>
+<com.startapp.android.publish.banner.bannerstandard.BannerStandard
+android:id="@+id/startAppStandardBanner"
+android:layout_width="wrap_content"
+ android:layout_gravity="center_horizontal"
+android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/bBasla"
+        android:layout_width="200dp"
+         android:layout_height="75dip"
+      android:layout_gravity="center"
+        android:background="@drawable/b4b"
+        android:text="Play"
+        android:textColor="#000000" />
+
+    <Button
+        android:id="@+id/bPaylas"
+        android:layout_gravity="center"
+        android:layout_width="200dp"
+         android:layout_height="75dip"
+        
+        android:background="@drawable/b3b"
+        android:text="Share HighScore"
+       android:textColor="#000000"/>
+
+    <Button
+        android:id="@+id/bSettings"
+        android:layout_width="200dp"
+        android:layout_height="75dip"
+        android:layout_gravity="center"
+        android:background="@drawable/b1b"
+        android:text="Settings"
+        android:textColor="#000000" />
+
+    
+</LinearLayout>
+
+</RelativeLayout>

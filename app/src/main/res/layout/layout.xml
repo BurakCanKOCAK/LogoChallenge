@@ -1,0 +1,141 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/Llayout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/game_back7"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:weightSum="100" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="50"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/HSkor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:text="High Score : "
+                 android:textStyle="bold"  
+                />
+
+            <TextView
+                android:id="@+id/Star"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:paddingLeft="180dp"
+                android:text=""
+                android:textStyle="bold" 
+                android:textSize="25dp"/>
+        </LinearLayout>
+<TextView
+                android:id="@+id/Skor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="left"
+                android:text="Score "
+                android:textStyle="bold" />
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:paddingTop="50dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:layout_weight="50"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:weightSum="100" >
+
+            <Button
+                android:textStyle="bold|italic"
+                android:id="@+id/A"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="300dp"
+                android:layout_height="50dip"
+                android:layout_weight="100"
+                android:background="@drawable/b1"
+                android:text="A" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:weightSum="100" >
+
+            <Button
+                 android:textStyle="bold|italic"
+                android:id="@+id/B"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="300dip"
+                android:layout_height="50dip"
+                android:layout_weight="100"
+                android:background="@drawable/b2b"
+                android:text="B" 
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:weightSum="100" >
+
+            <Button
+                 android:textStyle="bold|italic"
+                android:id="@+id/C"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="300dp"
+                android:layout_height="50dip"
+                android:layout_weight="100"
+                android:background="@drawable/b3b"
+                android:text="C" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingTop="10dp"
+            android:weightSum="100" >
+
+            <Button
+                 android:textStyle="bold|italic"
+                android:id="@+id/D"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="300dip"
+                android:layout_height="50dip"
+                android:layout_weight="100"
+                android:background="@drawable/b4b"
+                android:text="D" />
+        </LinearLayout>
+   
+<com.startapp.android.publish.banner.Banner
+android:id="@+id/startAppBanner"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:layout_gravity="center_horizontal"/></LinearLayout>
+
+</LinearLayout>

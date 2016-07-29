@@ -1,0 +1,1625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="facebook_app_id">207762299621584</string>
+
+    <string name="app_name">Logo Challenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="a1">Aşağıdakilerden hangisi araba markası değildir?</string>
+    <string name="a1a">Ford</string>
+    <string name="a1b">Porsche</string>
+    <string name="a1c">Toyota</string>
+    <string name="a1d">CMW</string>
+    <string name="a1e">d</string>
+
+    <string-array name="qs">
+        <item>Aşağıdakilerden hangisi araba markası değildir?</item>
+        <item>Avrupa Birliği"nin en fazla önemsediği, her alanda geleceğin teknolojisi olarak adlandırılan bilim dalının adı nedir?</item>
+        <item>Dünyanın ilk haritasını çizen ünlü Türk denizcisi kimdir?</item>
+        <item>Telefonun mucidi kimdir?</item>
+    </string-array>
+    <string-array name="as">
+        <item>Fiat</item>
+        <item>Porsche</item>
+        <item>Abboth</item>
+        <item>Abarth</item>
+        <item>D</item>
+        
+        <item>ABC</item>
+        <item>ABB</item>
+        <item>ABS</item>
+        <item>Abboth</item>
+        <item>B</item>
+        
+        <item>ABBA</item>
+        <item>ABBATE</item>
+        <item>BnB</item>
+        <item>Belly Bunsen</item>
+        <item>A</item>
+        
+        <item>Abbott</item>
+        <item>Aaron</item>
+        <item>TT Communication</item>
+        <item>A-TT</item>
+        <item>A</item>
+        
+        <item>C-TV</item>
+        <item>CBC</item>
+        <item>ABC</item>
+        <item>BBC</item>
+        <item>C</item>
+        
+        <item>Breitling</item>
+        <item>Anthema</item>
+        <item>Absolut</item>
+        <item>Absinthe</item>
+        <item>C</item>
+        
+        <item>Voltage</item>
+        <item>AC-220V</item>
+        <item>Alternative</item>
+        <item>AC-DC</item>
+        <item>D</item>
+        
+        <item>Acer</item>
+        <item>Bracer</item>
+        <item>Bouncer</item>
+        <item>Across</item>
+        <item>A</item>
+        
+        <item>Television</item>
+        <item>Activision</item>
+        <item>C-Vision</item>
+        <item>HTC</item>
+        <item>B</item>
+        
+        <item>Acura</item>
+        <item>Puma</item>
+        <item>Summa</item>
+        <item>Trinity</item>
+        <item>A</item>
+        
+        <item>Accuracy</item>
+        <item>Adecco</item>
+        <item>Annamaria</item>
+        <item>Axxco</item>
+        <item>B</item>
+        
+        
+        <item>Braille</item>
+        <item>Alle</item>
+        <item>Adele</item>
+        <item>Demy Lee</item>
+        <item>C</item>
+    
+    	 <item>Adidas</item>
+        <item>Abidos</item>
+        <item>Nike</item>
+        <item>3Mounths</item>
+        <item>A</item>
+    	
+    	<item>Adidas</item>
+        <item>Adio</item>
+        <item>Senior</item>
+        <item>Didier Sachs</item>
+        <item>B</item>
+    	
+        <item>Broadcast</item>
+        <item>Adio</item>
+        <item>Adobe</item>
+        <item>Ampere</item>
+        <item>C</item>
+    	
+        <item>A Class</item>
+        <item>Argon</item>
+        <item>Adobe</item>
+        <item>Aegon</item>
+        <item>D</item>
+        
+        <item>Aeroflot</item>
+        <item>SSCB</item>
+        <item>Socialist Party</item>
+        <item>Oracle</item>
+        <item>A</item>
+    	
+        <item>Agfa</item>
+        <item>Moto Vehicle</item>
+        <item>Agusta</item>
+        <item>Mr Wheel</item>
+        <item>C</item>
+        
+        <item>Agfa</item>
+        <item>Anfa</item>
+        <item>Bank of America</item>
+        <item>Oracle</item>
+        <item>A</item>
+             
+    	
+    	<item>Agfa</item>
+        <item>Moto Vehicle</item>
+        <item>Agusta</item>
+        <item>Agv</item>
+        <item>D</item>
+        
+        <item>Airberlin</item>
+        <item>Avanlin</item>
+        <item>Arialin</item>
+        <item>Argilin</item>
+        <item>A</item>
+    
+    	<item>Autobus</item>
+        <item>Asbus</item>
+        <item>Airbus</item>
+        <item>A B S</item>
+        <item>C</item>
+        
+        <item>Air Malta</item>
+        <item>Antarctica</item>
+        <item>Albania</item>
+        <item>Air Canada</item>
+        <item>D</item>
+        
+        <item>Aeroflee</item>
+        <item>Air France</item>
+        <item>Antene</item>
+        <item>Adelelaide</item>
+        <item>B</item>
+        
+        <item>Dove</item>
+        <item>Twitter</item>
+        <item>Air Jamaica</item>
+        <item>Lufthansa</item>
+        <item>C</item>
+        <!--   Buraya kadar 25, bi altı 26. -->
+        
+
+<item> Air Jordan</item>
+<item>NBA</item>
+<item>Adidas</item>
+<item>Hummel</item>
+<item>A</item>
+
+
+<item>Jaguar</item>
+<item>Puma</item>
+<item>Airness</item>
+<item>Animal</item>
+<item>C</item>
+
+<item>AirNewzeland</item>
+<item>Air Turksh</item>
+<item>AirFrance</item>
+<item>AirCanada</item>
+<item>A</item>
+
+<item>AirIndia</item>
+<item>AirPort</item>
+<item>Airwalk</item>
+<item>AirRussia</item>
+<item>C</item>
+
+
+<item>Glodde</item>
+<item>airWuck</item>
+<item>Glade</item>
+<item>AirWick</item>
+<item>D</item>
+
+<item>Aww</item>
+<item>Aiwa</item>
+<item>Awwia</item>
+<item>Aiwwa</item>
+<item>B</item>
+
+<item>Ayaks</item>
+<item>Amsterdex</item>
+<item>Ajax</item>
+<item>Amsterdam</item>
+<item>C</item>
+
+
+
+<item>Alcatel</item>
+<item>Premier</item>
+<item>Duracell</item>
+<item>seldolee</item>
+<item>A</item>
+
+
+<item>Allige</item>
+<item>Allide</item>
+<item>Alienware</item>
+<item>Allize</item>
+<item>C</item>
+
+
+<item>Asia</item>
+<item>Alitalia</item>
+<item>Agiea</item>
+<item>Anieas</item>
+<item>B</item>
+
+
+<item>Arabia</item>
+<item>Asjje</item>
+<item>Aljazerra</item>
+<item>Aijarabia</item>
+<item>C</item>
+
+
+<item>Art</item>
+<item>Allianz</item>
+<item>Aleo</item>
+<item>Atıo</item>
+<item>B</item>
+
+
+<item>Alfa Romeo</item>
+<item>Audi</item>
+<item>Mercedes</item>
+<item>Jaguar</item>
+<item>A</item>
+
+
+<item>Aıst</item>
+<item>Alko</item>
+<item>Allia</item>
+<item>Alpine</item>
+<item>D</item>
+
+
+
+
+<item>Animal</item>
+<item>Alra</item>
+<item>Altaria</item>
+<item>Allino</item>
+<item>C</item>
+
+
+<item>Always</item>
+<item>Alwoys</item>
+<item>Alwuks</item>
+<item>Alweys</item>
+<item>A</item>
+
+
+<item>Annein</item>
+<item>Atleon</item>
+<item>Amazing</item>
+<item>Amazon</item>
+<item>D</item>
+
+
+<item>Allow</item>
+<item>Alewd</item>
+<item>Amd</item>
+<item>Adn</item>
+<item>C</item>
+
+
+<item>CanadaAirlines</item>
+<item>AlbaniaAirlines</item>
+<item>AmericanAirlines</item>
+<item>KubaAirlines</item>
+<item>C</item>
+
+
+<item>Amgs</item>
+<item>AmericanExpress</item>
+<item>Amstells</item>
+<item>Americans</item>
+<item>B</item>
+
+
+<item>Amg</item>
+<item>Alliz</item>
+<item>Adidas</item>
+<item>Aircun</item>
+<item>A</item>
+
+
+
+<item>Aminoal</item>
+<item>Aisnom</item>
+<item>Amnesty</item>
+<item>Animal</item>
+<item>C</item>
+
+
+<item>Amstel</item>
+<item>Amstol</item>
+<item>Awmstel</item>
+<item>Alchol</item>
+<item>A</item>
+
+
+
+<item>Almstenk</item>
+<item>elmstrol</item>
+<item>Amtrak</item>
+<item>Antrol</item>
+<item>C</item>
+
+
+<item>Andwey</item>
+<item>Amswey</item>
+<item>Alway</item>
+<item>Amway</item>
+<item>D</item>
+
+<!--   Buraya kadar 50, bi altı 51. -->
+<item>And1</item>
+<item>Andd</item>
+<item>Andy1</item>
+<item>And</item>
+<item>A</item>
+
+<item>andrroid</item>
+<item>Apple</item>
+<item>Android</item>
+<item>İos</item>
+<item>C</item>
+
+
+
+<item>Birds</item>
+<item>AngryBirds</item>
+<item>Brds</item>
+<item>Angry</item>
+<item>B</item>
+
+
+
+
+
+<item>Aniets</item>
+<item>Animales</item>
+<item>AnimalMet</item>
+<item>AnimalPlanet</item>
+<item>D</item>
+
+
+<item>Businessman</item>
+<item>Anonymus</item>
+<item>Aorhfel</item>
+<item>WorldJob</item>
+<item>B</item>
+
+
+<item>Ohli</item>
+<item>Nolia</item>
+<item>Aol</item>
+<item>Wedy</item>
+<item>C</item>
+
+
+<item>AustraliaOpen</item>
+<item>Uapen</item>
+<item>Aopen</item>
+<item>Hobby</item>
+<item>A</item>
+
+<!--   Buraya kadar 57, bi altı 58 -->
+
+<item>Airterrfle</item>
+<item>Airmos</item>
+<item>SouthAfricanAirlines</item>
+<item>AirDubai</item>
+<item>C</item>
+
+
+<item>Asrt</item>
+<item>Artkla</item>
+<item>Art</item>
+<item>Apart</item>
+<item>D</item>
+
+<item>Aperol</item>
+<item>Aprica</item>
+<item>Apear</item>
+<item>Aprico</item>
+<item>A</item>
+
+
+
+<item>Apple</item>
+<item>Iphone</item>
+<item>Appls</item>
+<item>Aplle</item>
+<item>A</item>
+
+
+<item>Apple</item>
+<item>Appstore</item>
+<item>Android</item>
+<item>GooglePlay</item>
+<item>B</item>
+
+
+<item>Egilii</item>
+<item>Kli</item>
+<item>Aprilia</item>
+<item>Sweili</item>
+<item>C</item>
+
+
+<item>AquaFresh</item>
+<item>Aquafina</item>
+<item>Aquaneil</item>
+<item>AquaWater</item>
+<item>B</item>
+
+
+
+<item>Arnicavith</item>
+<item>Arcelormittal</item>
+<item>Arcinit</item>
+<item>Astollmarthn</item>
+<item>B</item>
+
+
+
+<item>Domestos</item>
+<item>Airwick</item>
+<item>Yumoş</item>
+<item>Ariel</item>
+<item>D</item>
+
+
+<item>Hawk</item>
+<item>Sahin</item>
+<item>Arizona</item>
+<item>SincanSpor</item>
+<item>C</item>
+
+
+<item>Arsenal</item>
+<item>Liverpool</item>
+<item>Manchester</item>
+<item>Everton</item>
+<item>A</item>
+
+
+<item>AlbaniaAirlines</item>
+<item>AfricaAirlines</item>
+<item>AsianAirlines</item>
+<item>AustriaAirlines</item>
+<item>C</item>
+
+
+<item>Abis</item>
+<item>Assick</item>
+<item>Asics</item>
+<item>Asiks</item>
+<item>C</item>
+
+
+<item>MiniCooper</item>
+<item>Ferrai</item>
+<item>Lamborghini</item>
+<item>AstonMartin</item>
+<item>D</item>
+
+<!--   Buraya kadar 71, bi altı 72 -28ocak -->
+
+<item>Babor</item>
+<item>Baiblr</item>
+<item>Billy</item>
+<item>Bohly</item>
+<item>A</item>
+
+
+
+<item>Boullys</item>
+<item>Baileys</item>
+<item>Boccy</item>
+<item>Bacardi</item>
+<item>D</item>
+
+
+<item>BabyFashion</item>
+<item>RapBoy</item>
+<item>BadBoy</item>
+<item>babyBoy</item>
+<item>C</item>
+
+
+
+<item>bad</item>
+<item>BadPigies</item>
+<item>Pigs</item>
+<item>pigg</item>
+<item>B</item>
+
+
+
+<item>Baileys</item>
+<item>Bakko</item>
+<item>Bacardi</item>
+<item>Bollici</item>
+<item>A</item>
+
+
+
+<item>Celo</item>
+<item>Cello</item>
+<item>Cecille</item>
+<item>Cheerios</item>
+<item>D</item>
+
+
+<item>Chetso</item>
+<item>Chetosse</item>
+<item>Cheetos</item>
+<item>Chettos</item>
+<item>C</item>
+<!--   Buraya kadar 78, bi altı 79 -29ocak -->
+
+<item>Armani</item>
+<item>ChtticcoArmni</item>
+<item>EmporioArmani</item>
+<item>GiorgioArmani</item>
+<item>D</item>
+
+
+<item>Gllido</item>
+<item>Oglido</item>
+<item>Giro</item>
+<item>Godllo</item>
+<item>D</item>
+
+<item>Gro</item>
+<item>Giddolli</item>
+<item>Gd</item>
+<item>Giro</item>
+<item>D</item>
+
+
+
+<item>Ochy</item>
+<item>Givenchy</item>
+<item>Cvenchy</item>
+<item>Gvenchi</item>
+<item>B</item>
+
+
+<item>Amail</item>
+<item>Email</item>
+<item>Hotmail</item>
+<item>Gmail</item>
+<item>D</item>
+
+
+<item>Honda</item>
+<item>Bmw</item>
+<item>Mazda</item>
+<item>Hyundai</item>
+<item>A</item>
+
+
+<item>Fire</item>
+<item>Blohot</item>
+<item>Hotwheels</item>
+<item>Hotwhl</item>
+<item>C</item>
+
+
+
+<item>House</item>
+<item>Horre</item>
+<item>Horse</item>
+<item>Home</item>
+<item>A</item>
+
+<item>Ayha</item>
+<item>Ohya</item>
+<item>Hoya</item>
+<item>Hia</item>
+<item>C</item>
+
+
+<item>Bugs</item>
+<item>Tweety</item>
+<item>Hugo</item>
+<item>Teletubbies</item>
+<item>C</item>
+
+
+<item>Tradex</item>
+<item>Igtre</item>
+<item>Ixtrade</item>
+<item>İmax</item>
+<item>D</item>
+
+
+
+<item>Indesit</item>
+<item>Ekit</item>
+<item>Dmdf</item>
+<item>Adm</item>
+<item>A</item>
+<!--   Buraya kadar 90, bi altı 91 -29ocak -->
+<item>Mazda</item>
+<item>Honda</item>
+<item>Infiniti</item>
+<item>Hyundai</item>
+<item>C</item>
+
+
+<item>Foursquare</item>
+<item>Twitter</item>
+<item>Facebook</item>
+<item>Instagram</item>
+<item>D</item>
+
+
+<item>Jabra</item>
+<item>Ujub</item>
+<item>Jibli</item>
+<item>Ojubro</item>
+<item>A</item>
+
+
+<item>Camus</item>
+<item>Martell</item>
+<item>RemyMartin</item>
+<item>JackDaniels</item>
+<item>D</item>
+
+
+
+<item>Jackbs</item>
+<item>Jackass</item>
+<item>Johys</item>
+<item>Wandet</item>
+<item>B</item>
+
+
+
+<item>OjoWol</item>
+<item>Jowc</item>
+<item>Jackwolfskin</item>
+<item>JacWo</item>
+<item>C</item>
+
+
+
+<item>Flusport</item>
+<item>Keysport</item>
+<item>Esport</item>
+<item>JanSport</item>
+<item>D</item>
+
+<item>Lous</item>
+<item>Levis</item>
+<item>Lee</item>
+<item>Lotus</item>
+<item>C</item>
+
+
+
+<item>Lago</item>
+<item>Lego</item>
+<item>Ligo</item>
+<item>Logo</item>
+<item>B</item>
+
+
+<item>Lotto</item>
+<item>Leica</item>
+<item>Liska</item>
+<item>Lolita</item>
+<item>B</item>
+<!--   Buraya kadar 100, bi altı 101 -29ocak -->
+
+<item>Levo</item>
+<item>Ineve</item>
+<item>Lenovo</item>
+<item>Inovvo</item>
+<item>C</item>
+
+
+<item>Leo</item>
+<item>Lexus</item>
+<item>Lastix</item>
+<item>Lotus</item>
+<item>B</item>
+
+
+<item>Sportive</item>
+<item>Dance</item>
+<item>Jackson</item>
+<item>Michael Jackson</item>
+<item>D</item>
+
+
+
+<item>Petlas</item>
+<item>Pirelli</item>
+<item>Lassa</item>
+<item>Michelin</item>
+<item>D</item>
+
+
+
+
+
+<item>Ongly</item>
+<item>Month</item>
+<item>Microsoft</item>
+<item>Meet</item>
+<item>C</item>
+
+
+
+
+
+
+<item>FarmFrenzy</item>
+<item>Minecraft</item>
+<item>NatalieBrooks</item>
+<item>Mario</item>
+<item>B</item>
+
+
+
+<item>Nidle</item>
+<item>Nucc</item>
+<item>Nice</item>
+<item>Nos</item>
+<item>D</item>
+
+
+<item>Noons</item>
+<item>Nürblangs</item>
+<item>Nürburgring</item>
+<item>Nnsgra</item>
+<item>C</item>
+
+
+<item>Nutelli</item>
+<item>Notella</item>
+<item>Nuttela</item>
+<item>Nutella</item>
+<item>D</item>
+
+<item>Nuo</item>
+<item>Nuvo</item>
+<item>Novo</item>
+<item>Note</item>
+<item>B</item>
+
+
+<item>Nvidia</item>
+<item>Msi</item>
+<item>Gigabayt</item>
+<item>Maksimus</item>
+<item>A</item>
+
+
+
+
+
+
+<item>Canon</item>
+<item>Kodak</item>
+<item>Olympus</item>
+<item>Nicon</item>
+<item>C</item>
+
+
+
+<item>SanJose</item>
+<item>Patron</item>
+<item>Gusta</item>
+<item>Olmeca</item>
+<item>D</item>
+
+
+
+<item>Swim</item>
+<item>Olympus</item>
+<item>HuloHop</item>
+<item>Olympics</item>
+<item>D</item>
+
+
+
+<item>Omicron</item>
+<item>Indis</item>
+<item>Alfa</item>
+<item>Omega</item>
+<item>D</item>
+
+
+
+<item>Mozilla</item>
+<item>Exporler</item>
+<item>Google</item>
+<item>Opera</item>
+<item>D</item>
+
+
+<item>Poly</item>
+<item>Papal</item>
+<item>Poldpil</item>
+<item>Paypal</item>
+<item>D</item>
+
+
+<item>Pody</item>
+<item>Pedigree</item>
+<item>Eygly</item>
+<item>Edistle</item>
+<item>B</item>
+
+
+<item>Petto</item>
+<item>San Pellegrino</item>
+<item>Opsitto</item>
+<item>Ossino</item>
+<item>B</item>
+
+
+<item>Penzoill</item>
+<item>Esol</item>
+<item>Kestrol</item>
+<item>Epistro</item>
+<item>A</item>
+<!--   Buraya kadar 120, bi altı 121 - 30ocak -->
+<item>Petti</item>
+<item>Pet</item>
+<item>Petro</item>
+<item>Petrol</item>
+<item>C</item>
+
+
+
+
+<item>Proki</item>
+<item>Ortik</item>
+<item>Rook</item>
+<item>Realtek</item>
+<item>D</item>
+
+
+
+<item>Rolly</item>
+<item>Recaro</item>
+<item>Ecro</item>
+<item>Corlo</item>
+<item>B</item>
+
+
+
+<item>RedZone</item>
+<item>Buzzer</item>
+<item>Burn</item>
+<item>RedBull</item>
+<item>D</item>
+
+
+<item>Reddit</item>
+<item>Digg</item>
+<item>Flicker</item>
+<item>Noodly</item>
+<item>A</item>
+
+
+<item>Bilnex</item>
+<item>Adobe</item>
+<item>RedHat</item>
+<item>WordPress</item>
+<item>C</item>
+
+
+
+
+
+<item>Kugs</item>
+<item>TheTruth</item>
+<item>TuneIn</item>
+<item>Nr1</item>
+<item>C</item>
+
+
+
+<item>Tpr</item>
+<item>Tupp</item>
+<item>Amway</item>
+<item>Tupperware</item>
+<item>D</item>
+
+
+
+
+<item>Tovrtles</item>
+<item>Turltlls</item>
+<item>Törtll</item>
+<item>Turtless</item>
+<item>D</item>
+
+
+
+<item>At</item>
+<item>Ganyan</item>
+<item>Tvs</item>
+<item>Horse</item>
+<item>C</item>
+
+<!--   Buraya kadar 130, bi altı 131 - 31ocak -->
+
+<item>Twl</item>
+<item>Twox</item>
+<item>Twwx</item>
+<item>Twix</item>
+<item>D</item>
+
+
+
+<item>Scsd</item>
+<item>Iapd</item>
+<item>Unesco</item>
+<item>Unicef</item>
+<item>D</item>
+
+<item>Tirodi</item>
+<item>Indrest</item>
+<item>Unicom</item>
+<item>Icleci</item>
+<item>C</item>
+
+
+
+<item>Unilever</item>
+<item>Univerr</item>
+<item>Uniliver</item>
+<item>Univver</item>
+<item>A</item>
+
+<item>Uniroleyyi</item>
+<item>Uniroyal</item>
+<item>Lassa</item>
+<item>Michelin</item>
+<item>B</item>
+
+<item>United</item>
+<item>Volette</item>
+<item>Nutte</item>
+<item>Unutte</item>
+<item>A</item>
+
+
+<item>WosterdnDnt</item>
+<item>WesternDigital</item>
+<item>Werds</item>
+<item>World</item>
+<item>B</item>
+
+
+
+<item>WhataBurger</item>
+<item>OtsBurger</item>
+<item>BurgerHouse</item>
+<item>BurgerKing</item>
+<item>A</item>
+
+<item>Wertipol</item>
+<item>Wottipu</item>
+<item>Whirlpool</item>
+<item>Whrtlpol</item>
+<item>C</item>
+
+
+<item>Friskies</item>
+<item>Whiskas</item>
+<item>Goody</item>
+<item>Micho</item>
+<item>B</item>
+
+<item>Wikopedia</item>
+<item>Worldkia</item>
+<item>Wikipedia</item>
+<item>Wokipedi</item>
+<item>C</item>
+
+
+<item>Zepped</item>
+<item>Solingen</item>
+<item>Jumbo</item>
+<item>Zepter</item>
+<item>D</item>
+
+
+
+<item>Zupao</item>
+<item>Zoppi</item>
+<item>Zopia</item>
+<item>Zippo</item>
+<item>D</item>
+
+
+<item>Zart </item>
+<item>Zurt</item>
+<item>Zott</item>
+<item>Zqout</item>
+<item>C</item>
+
+
+<item>Ozp</item>
+<item>Zte</item>
+<item>Izt</item>
+<item>Zoj</item>
+<item>B</item>
+<!--   Buraya kadar 145, bi altı 146 - 31ocak -->
+
+<item>Asuss</item>
+<item>Aksus</item>
+<item>Assua</item>
+<item>Asus</item>
+<item>D</item>
+
+<item>Ataro</item>
+<item>Atar</item>
+<item>Atari</item>
+<item>Ataxi</item>
+<item>C</item>
+
+<item>Aviva</item>
+<item>Aliva</item>
+<item>Avko</item>
+<item>Avovo</item>
+<item>A</item>
+
+<item>Asi</item>
+<item>Aki</item>
+<item>Ati</item>
+<item>Ali</item>
+<item>C</item>
+
+<item>Atomic</item>
+<item>Addo</item>
+<item>Avuko</item>
+<item>Aqua</item>
+<item>A</item>
+<!--   Buraya kadar 150, bi altı 151 - 31ocak -->
+<item>Barhiko</item>
+<item>Berhiko</item>
+<item>Bershikko</item>
+<item>Bershka</item>
+<item>D</item>
+
+<item>Cholch</item>
+<item>Chinachif</item>
+<item>Chickfila</item>
+<item>China</item>
+<item>C</item>
+
+
+<item>Stolv</item>
+<item>Chevron</item>
+<item>Vigron</item>
+<item>Pollita</item>
+<item>B</item>
+
+
+<item>Citroen</item>
+<item>Chevrolet</item>
+<item>Hyundai</item>
+<item>Opel</item>
+<item>B</item>
+
+
+<item>ChristianDior</item>
+<item>CalvinKlein</item>
+<item>Chanel</item>
+<item>Coco</item>
+<item>C</item>
+
+
+<item>Chunabi</item>
+<item>ChinaPower</item>
+<item>Chubu</item>
+<item>China</item>
+<item>C</item>
+
+<item>Beko</item>
+<item>Belli</item>
+<item>Obeo</item>
+<item>Obeko</item>
+<item>A</item>
+
+
+
+
+
+<item>Bocks</item>
+<item>Bakces</item>
+<item>Becks</item>
+<item>Beerbb</item>
+<item>C</item>
+
+<item>Crokko</item>
+<item>Crocs</item>
+<item>Ecrost</item>
+<item>Brocks</item>
+<item>B</item>
+
+
+<item>LG</item>
+<item>Creative</item>
+<item>Premier</item>
+<item>Sony</item>
+<item>B</item>
+
+<item>Offline</item>
+<item>Offike</item>
+<item>Office</item>
+<item>Offace</item>
+<item>C</item>
+
+
+<item>Dr.Outreklf</item>
+<item>Dr.Outkret</item>
+<item>Dr.Ouetkr</item>
+<item>Dr.Oetker</item>
+<item>D</item>
+
+
+<item>Condor</item>
+<item>Oceanic</item>
+<item>Onurair</item>
+<item>Aeroflot</item>
+<item>B</item>
+
+
+<item>Oceli</item>
+<item>Oceat</item>
+<item>Ocean</item>
+<item>Oceeon</item>
+<item>C</item>
+
+
+
+
+
+<item>Ozoshi</item>
+<item>Ozoh</item>
+<item>Oline</item>
+<item>Olli</item>
+<item>A</item>
+
+
+
+<item>Okkone</item>
+<item>Onnoe</item>
+<item>Oneill</item>
+<item>Onelli</item>
+<item>C</item>
+
+
+<item>Osv</item>
+<item>Omv</item>
+<item>Odv</item>
+<item>Onv</item>
+<item>B</item>
+
+<item>Pucelle</item>
+<item>Driclor</item>
+<item>Oldspice</item>
+<item>Detoll</item>
+<item>C</item>
+
+
+<item>Reval</item>
+<item>Bioderma</item>
+<item>Neutrogena</item>
+<item>Olay</item>
+<item>D</item>
+
+
+
+<item>Dudluo</item>
+<item>Dillo</item>
+<item>Dello</item>
+<item>Delonghi</item>
+<item>D</item>
+
+<!--   Buraya kadar 170, bi altı 171 - 2Şubat -->
+
+<item>Askirte</item>
+<item>Alliete</item>
+<item>Descente</item>
+<item>Doliente</item>
+<item>C</item>
+
+
+<item>Cosi</item>
+<item>Costa</item>
+<item>Colko</item>
+<item>Cola</item>
+<item>B</item>
+
+
+<item>Devker</item>
+<item>Deker</item>
+<item>Dovker</item>
+<item>Dakar</item>
+<item>D</item>
+
+
+<item>HarleyDavidson</item>
+<item>Shift</item>
+<item>Dainese</item>
+<item>Alpinestars</item>
+<item>C</item>
+
+
+<item>Daihatsu</item>
+<item>Anadolu</item>
+<item>Tofaş</item>
+<item>Dacia</item>
+<item>A</item>
+
+
+<item>Easley</item>
+<item>Scania</item>
+<item>Temsa</item>
+<item>Daf</item>
+<item>D</item>
+
+
+<item>Betty</item>
+<item>Bebo</item>
+<item>Baby</item>
+<item>Bubo</item>
+<item>B</item>
+
+
+<item>Playdo</item>
+<item>Playskool</item>
+<item>Plyco</item>
+<item>Playdoh</item>
+<item>B</item>
+
+
+<item>Campicca</item>
+<item>Amazon</item>
+<item>Activia</item>
+<item>Campina</item>
+<item>D</item>
+
+
+<item>Clak</item>
+<item>ClvnK</item>
+<item>ChristianDior</item>
+<item>CalvinKlein</item>
+<item>D</item>
+
+<item>Ibanez</item>
+<item>Fender</item>
+<item>Gibson</item>
+<item>Rodriguez</item>
+<item>B</item>
+
+
+<item>Cambridge</item>
+<item>Fbi</item>
+<item>Liverpool</item>
+<item>Harvard</item>
+<item>B</item>
+
+<item>Chrysler</item>
+<item>Cadillac</item>
+<item>Proton</item>
+<item>Bugatti</item>
+<item>B</item>
+
+<item>Bmw</item>
+<item>Bloom</item>
+<item>Bwin</item>
+<item>Iddaa</item>
+<item>C</item>
+
+
+<item>Pedigree</item>
+<item>SciencePlan</item>
+<item>Friskies</item>
+<item>Eukanuba</item>
+<item>D</item>
+
+
+<item>Eustroc</item>
+<item>Combo</item>
+<item>Eurocopter</item>
+<item>Coppy</item>
+<item>C</item>
+
+
+<item>Fg</item>
+<item>Faml</item>
+<item>Familg</item>
+<item>FamilyGuy</item>
+<item>D</item>
+
+
+<item>Extra</item>
+<item>Osx</item>
+<item>XxX</item>
+<item>Extreme</item>
+<item>D</item>
+
+<item>Exol</item>
+<item>Exdl</item>
+<item>Exxon</item>
+<item>Exit</item>
+<item>C</item>
+
+
+<item>Daiki</item>
+<item>Dub</item>
+<item>Ducati</item>
+<item>Dacia</item>
+<item>C</item>
+<!--   Buraya kadar 190, bi altı 191 - 4Şubat -->
+
+<item>Avon</item>
+<item>Ask</item>
+<item>Alem</item>
+<item>Aley</item>
+<item>A</item>
+
+
+<item>Lonkrt</item>
+<item>Eaznt</item>
+<item>Ort</item>
+<item>Att</item>
+<item>D</item>
+
+<item>Cıtroen</item>
+<item>Jaguar</item>
+<item>Toyota</item>
+<item>Audi</item>
+<item>D</item>
+
+<item>Akx</item>
+<item>Axn</item>
+<item>Extrem</item>
+<item>Exe</item>
+<item>B</item>
+
+<item>Ketlinea</item>
+<item>Kollia</item>
+<item>KahluaMexcian</item>
+<item>Klhanes</item>
+<item>C</item>
+
+<item>Abm</item>
+<item>Okamabe</item>
+<item>Kabaya</item>
+<item>Obeyma</item>
+<item>C</item>
+
+<item>Jvc</item>
+<item>Jac</item>
+<item>Juc</item>
+<item>Jec</item>
+<item>A</item>
+
+
+<item>Newbrick</item>
+<item>Ncl</item>
+<item>Nba</item>
+<item>NewBlance</item>
+<item>D</item>
+
+<item>Rickoto</item>
+<item>Netto</item>
+<item>Rocotto</item>
+<item>Beko</item>
+<item>B</item>
+
+<item>Nortex</item>
+<item>NetFlix</item>
+<item>Nellix</item>
+<item>Netx</item>
+<item>B</item>
+
+<item>Nurch</item>
+<item>Nutella</item>
+<item>Nesquick</item>
+<item>Nestle</item>
+<item>D</item>
+
+<item>Nelia</item>
+<item>Mustela</item>
+<item>Neutrogena</item>
+<item>Nivea</item>
+<item>D</item>
+
+<item>Ninekkers</item>
+<item>Ninsthree</item>
+<item>Nitendothreeds</item>
+<item>Ninevest</item>
+<item>C</item>
+
+<item>Ninja</item>
+<item>Ninckly</item>
+<item>Nickelodeon</item>
+<item>Nickleydeyn</item>
+<item>C</item>
+
+
+
+<item>Pro</item>
+<item>Crf</item>
+<item>Nfl</item>
+<item>Opr</item>
+<item>C</item>
+
+<item>Newsweek</item>
+<item>Nurth</item>
+<item>Enettre</item>
+<item>Newblance</item>
+<item>A</item>
+
+<item>Drenkis</item>
+<item>Nuseyt</item>
+<item>NewEngland</item>
+<item>Astrecl</item>
+<item>C</item>
+
+
+<item>Katmer</item>
+<item>Krolstro</item>
+<item>King</item>
+<item>Kinder</item>
+<item>D</item>
+
+<item>Zia</item>
+<item>Kia</item>
+<item>Dacia</item>
+<item>Acia</item>
+<item>B</item>
+
+<item>Katlleggs</item>
+<item>Kleggs</item>
+<item>Kelloggs</item>
+<item>Klerance</item>
+<item>C</item>
+<!--   Buraya kadar 210, bi altı 211 - 4Şubat -->
+
+
+<item>Tklexi</item>
+<item>Kalesdrei</item>
+<item>Kawasaki</item>
+<item>Kalixeski</item>
+<item>C</item>
+
+
+<item>Kaleski</item>
+<item>Katesky</item>
+<item>Kasky</item>
+<item>Kasperky</item>
+<item>D</item>
+
+<item>Agly</item>
+<item>Austin</item>
+<item>Eastyl</item>
+<item>Scrett</item>
+<item>B</item>
+
+
+<item>Kety</item>
+<item>Karcher</item>
+<item>Katy</item>
+<item>Kanebo</item>
+<item>B</item>
+
+<item>Exa</item>
+<item>Axa</item>
+<item>Exe</item>
+<item>Axe</item>
+<item>D</item>
+
+<item>Stielle</item>
+<item>Deltietreks</item>
+<item>Auntieannes</item>
+<item>Estiesnes</item>
+<item>C</item>
+
+<item>Awwe</item>
+<item>Awa</item>
+<item>Ax</item>
+<item>Axa</item>
+<item>D</item>
+
+<item>LockheedMartin</item>
+<item>Awacs</item>
+<item>Boeing</item>
+<item>Airbus</item>
+<item>B</item>
+
+
+<item>Efes</item>
+<item>Hare</item>
+<item>Absolut</item>
+<item>Malibu</item>
+<item>D</item>
+
+<item>Ways</item>
+<item>Navigation</item>
+<item>Maps</item>
+<item>Google</item>
+<item>C</item>
+
+<item>Sagopa</item>
+<item>Hayko</item>
+<item>Rammstein</item>
+<item>Metallica</item>
+<item>C</item>
+
+<item>Fendi</item>
+<item>TagHeuer</item>
+<item>Rayban</item>
+<item>Police</item>
+<item>C</item>
+
+<item>Rbs</item>
+<item>Aig</item>
+<item>Ziraat</item>
+<item>İng</item>
+<item>A</item>
+
+<item>RedSkins</item>
+<item>Warriors</item>
+<item>Velvets</item>
+<item>RedSocks</item>
+<item>A</item>
+
+<item>Server</item>
+<item>Twitter</item>
+<item>Clouds</item>
+<item>Skype</item>
+<item>D</item>
+
+
+<item>Istanblue</item>
+<item>Smirnoff</item>
+<item>Skyy</item>
+<item>Absolut</item>
+<item>C</item>
+
+
+
+<item>Slazenger</item>
+<item>Jaguar</item>
+<item>Leopar</item>
+<item>Puma</item>
+<item>A</item>
+
+<item>Istanblue</item>
+<item>Skyy</item>
+<item>Absolut</item>
+<item>Smirnoff</item>
+<item>D</item>
+
+
+<item>Serbianair</item>
+<item>Spanair</item>
+<item>Franceair</item>
+<item>Skoccyair</item>
+<item>B</item>
+
+<item>Iglo</item>
+<item>Spar</item>
+<item>Dardanel</item>
+<item>Superfresh</item>
+<item>B</item>
+<!--   Buraya kadar 230, bi altı 231 - 5Şubat -->
+    </string-array>
+    <string name="APP_ID">203580729841505</string>
+</resources>

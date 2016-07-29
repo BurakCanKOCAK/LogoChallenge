@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/fail_back3">
+    
+   <TextView
+        android:id="@+id/name_edit_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:text="Do you want to continue for 5 Stars ?"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center" />
+
+    <Button
+        android:textColor="@android:color/black"
+        android:id="@+id/byes"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/name_edit_text"
+        android:layout_toLeftOf="@+id/cancel"
+        android:text="Ok" 
+         android:layout_gravity="center_horizontal"
+         android:background="@drawable/b1b"
+         />
+
+    <Button
+        android:textColor="@android:color/black"
+         android:background="@drawable/b2b"
+        android:id="@+id/bno"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/ok"
+        android:layout_alignBottom="@+id/ok"
+        android:layout_alignParentRight="true"
+        android:text="Cancel" 
+         android:layout_gravity="center_horizontal"/>
+</LinearLayout>

@@ -26,6 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class LoginSignUpActivity extends Activity {
+    //Commit with Burak Can Koçak
     FirebaseConfig firebaseConfig;
 
     Button signupButton,loginButton;

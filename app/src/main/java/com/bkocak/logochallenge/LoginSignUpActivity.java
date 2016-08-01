@@ -14,16 +14,20 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bkocak.logochallenge.model.User;
+import com.bkocak.logochallenge.utils.FirebaseConfig;
 import com.firebase.client.ChildEventListener;
 import com.firebase.client.DataSnapshot;
 import com.firebase.client.Firebase;
 import com.firebase.client.FirebaseError;
 import com.firebase.client.ValueEventListener;
+import com.google.firebase.remoteconfig.FirebaseRemoteConfig;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class LoginSignUpActivity extends Activity {
+    FirebaseConfig firebaseConfig;
+
     Button signupButton,loginButton;
     ListView lvUsers;
     EditText password;
@@ -34,7 +38,9 @@ public class LoginSignUpActivity extends Activity {
     String usernametxt;
 
     private ChildEventListener cEventListener;
-    List<String> userList = new ArrayList<String>();
+    List<String> userList = new ArrayList<>();
+
+    private FirebaseRemoteConfig mFirebaseRemoteConfig;
 
     long userCount = 0;
 
@@ -43,7 +49,9 @@ public class LoginSignUpActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Firebase.setAndroidContext(this);
-        final Firebase myFirebaseRef = new Firebase("https://ledcontrol-9a2b6.firebaseio.com/");
+        firebaseConfig = new FirebaseConfig();
+        ////////////////////////////////////////////////////////////////
+        final Firebase myFirebaseRef = new Firebase("https://logochallenge-e4634.firebaseio.com/");
 
         myFirebaseRef.child("Users").addChildEventListener(new ChildEventListener() {
             @Override
@@ -71,6 +79,7 @@ public class LoginSignUpActivity extends Activity {
 
 
             }
+            //Test
         });
         ///////////////////////////////////////////////////////////////////////////////
         myFirebaseRef.child("Users").addValueEventListener(new ValueEventListener() {
@@ -93,7 +102,7 @@ public class LoginSignUpActivity extends Activity {
         setContentView(R.layout.login_signup_activity);
 
         lvUsers = (ListView) findViewById(R.id.lvUsers);
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
+        ArrayAdapter<String> adapter = new ArrayAdapter<>(this,
                 android.R.layout.simple_list_item_1, android.R.id.text1,userList);
         lvUsers.setAdapter(adapter);
 
@@ -101,6 +110,8 @@ public class LoginSignUpActivity extends Activity {
         password = (EditText) findViewById(R.id.password);
         data1 = (TextView) findViewById(R.id.tvData1);
         data2 = (TextView) findViewById(R.id.tvData2);
+        data1.setText(firebaseConfig.getGame_room_typ1_mp());
+        data2.setText(firebaseConfig.getGame_room_typ2_mp());
         signupButton = (Button) findViewById(R.id.signup);
         loginButton = (Button) findViewById(R.id.login);
         //////////////////////////////////////////////////////Login

@@ -1,27 +1,35 @@
 {
   "project_info": {
-    "project_number": "68065104763",
-    "firebase_url": "https://ledcontrol-9a2b6.firebaseio.com",
-    "project_id": "ledcontrol-9a2b6",
-    "storage_bucket": "ledcontrol-9a2b6.appspot.com"
+    "project_number": "242439311929",
+    "firebase_url": "https://logochallenge-e4634.firebaseio.com",
+    "project_id": "logochallenge-e4634",
+    "storage_bucket": "logochallenge-e4634.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:68065104763:android:315659a51c210642",
+        "mobilesdk_app_id": "1:242439311929:android:935b36bb4f5451ca",
         "android_client_info": {
-          "package_name": "com.bkocak.ledcontrol"
+          "package_name": "com.bkocak.logochallenge"
         }
       },
       "oauth_client": [
         {
-          "client_id": "68065104763-sp86ku4u34mbu6iuht4bj1oqli7v72c1.apps.googleusercontent.com",
+          "client_id": "242439311929-fpf8snfqrr5ec2cfa7k5obrb1afnpl9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bkocak.logochallenge",
+            "certificate_hash": "EEA3FAD4D18FCC64693FB0688CEBF7F7E3C6FC4B"
+          }
+        },
+        {
+          "client_id": "242439311929-5qv0gorb6pi4kcbneph7mdn79v1uilk5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBIeajBpqLrH7yoKt0-sxt-3bP3lQSKBxQ"
+          "current_key": "AIzaSyA_HPdQVrOYM3bQOW5Hvgykd0BUYXfNBqA"
         }
       ],
       "services": {

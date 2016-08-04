@@ -5,6 +5,7 @@ package com.bkocak.logochallenge.model;
  */
 public class User {
     private String userName;
+    private String mail;
     private String password;
     private String userId;
     private int level;
@@ -12,8 +13,9 @@ public class User {
     public User() {
     }
 
-    public User(String userName, String password, String userId, int level) {
+    public User(String userName, String mail, String password, String userId, int level) {
         this.userName = userName;
+        this.mail = mail;
         this.password = password;
         this.userId = userId;
         this.level = level;
@@ -23,15 +25,19 @@ public class User {
         return userName;
     }
 
+    public String getMail() {
+        return mail;
+    }
+
     public String getPassword() {
         return password;
     }
 
-    public int getLevel() {
-        return level;
-    }
-
     public String getUserId() {
         return userId;
+    }
+
+    public int getLevel() {
+        return level;
     }
 }

@@ -122,7 +122,7 @@ public class LoginSignUpActivity extends Activity {
             public void onClick(View v) {
                 usernametxt = username.getText().toString();
                 passwordtxt = password.getText().toString();
-                User user = new User(usernametxt, passwordtxt, "user000"+userCount, 0);
+                User user = new User(usernametxt, null, passwordtxt, "user000"+userCount, 0);
                 Firebase fbUsers = myFirebaseRef.child("Users").child("User"+userCount);
                 fbUsers.setValue(user);
 

@@ -66,7 +66,7 @@ public class Opening extends Activity implements OnClickListener,AdEventListener
 		paylas.setOnClickListener(this);
 	tv=(TextView)findViewById(R.id.textView2);
 	sharedPref = getSharedPreferences("data",MODE_PRIVATE);
-	String gotName = sharedPref.getString("name", "null");
+	String gotName = sharedPref.getString("username", "null");
 	soundIsOn=sharedPref.getBoolean("soundIsOn", true);
 	tv.setText("Hi , "+ gotName+" !");
 	}

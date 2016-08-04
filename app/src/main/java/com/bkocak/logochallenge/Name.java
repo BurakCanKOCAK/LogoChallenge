@@ -52,7 +52,7 @@ public class Name extends Activity implements OnClickListener {
 		editor.putString(keyUsername, etUsername.getText().toString());
 		editor.putString(keyPassword, etPassword.getText().toString());
 		editor.putString(keyMail, etMail.getText().toString());
-		RegisterUser rUser = new RegisterUser(etUsername.getText().toString(),etMail.getText().toString(),etPassword.getText().toString());
+		RegisterUser rUser = new RegisterUser(this.getBaseContext(),etUsername.getText().toString(),etMail.getText().toString(),etPassword.getText().toString());
 
 		while(!userIsRegistered)
 		{

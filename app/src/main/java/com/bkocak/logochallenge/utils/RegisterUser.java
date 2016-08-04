@@ -1,6 +1,7 @@
 package com.bkocak.logochallenge.utils;
 
 import android.app.Activity;
+import android.app.Application;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.View;
@@ -24,17 +25,17 @@ import java.util.List;
  * Created by bkocak on 04/08/2016.
  */
 
-public class RegisterUser extends Activity {
+public class RegisterUser  {
     private String username, mail, password;
     List<String> userList = new ArrayList<String>();
 
     long userCount = 0;
     boolean userRegistred = false;
-    Firebase myFirebaseRef = new Firebase("https://logochallenge-e4634.firebaseio.com/");
+    Firebase myFirebaseRef;
 
-    public RegisterUser(String username, String mail, String password) {
+    public RegisterUser(Context context,String username, String mail, String password) {
         SetProperty(username, mail, password);
-        InitFirebase();
+        InitFirebase(context);
     }
 
     private void SetProperty(String username, String mail, String password) {
@@ -43,8 +44,9 @@ public class RegisterUser extends Activity {
         this.password = password;
     }
 
-    void InitFirebase() {
-        Firebase.setAndroidContext(this);
+    void InitFirebase(Context context) {
+        Firebase.setAndroidContext(context);
+        myFirebaseRef = new Firebase("https://logochallenge-e4634.firebaseio.com/");
 
         myFirebaseRef.child("Users").addValueEventListener(new ValueEventListener() {
             @Override
